@@ -7,7 +7,7 @@
     "genre": ["Sci-Fi", "Adventure"],
     "rating": 8.7,
     "runtime": 152,
-    "poster": "https://picsum.photos/seed/cosmic-odyssey/500/750",
+    "poster": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?q=80&w=2071&auto=format&fit=crop",
     "description": "A journey to the edge of the galaxy reveals a secret that will change humanity forever. A team of astronauts must confront their own fears and the vast emptiness of space.",
     "director": "Elena Petrova",
     "featured": true
@@ -20,7 +20,7 @@
     "genre": ["Thriller", "Action"],
     "rating": 7.9,
     "runtime": 128,
-    "poster": "https://picsum.photos/seed/the-last-heist/500/750",
+    "poster": "https://images.unsplash.com/photo-1521992735213-9a35a925d164?q=80&w=1974&auto=format&fit=crop",
     "description": "A retired master thief is forced back into the game for one last job. But this time, the stakes are personal, and betrayal lurks around every corner.",
     "director": "Marcus Cole",
     "featured": false
@@ -33,7 +33,7 @@
     "genre": ["Drama", "Romance"],
     "rating": 8.1,
     "runtime": 115,
-    "poster": "https://picsum.photos/seed/echoes-of-yesterday/500/750",
+    "poster": "https://images.unsplash.com/photo-1508200693489-f49c5a29b47e?q=80&w=2070&auto=format&fit=crop",
     "description": "Two childhood sweethearts reconnect after twenty years, only to find that their pasts have shaped them in ways they never could have imagined. A tale of love, loss, and second chances.",
     "director": "Sophie Chen",
     "featured": true
@@ -46,7 +46,7 @@
     "genre": ["Sci-Fi", "Action"],
     "rating": 9.1,
     "runtime": 145,
-    "poster": "https://picsum.photos/seed/cyber-revolt/500/750",
+    "poster": "https://images.unsplash.com/photo-1555431182-a9b3b20e0046?q=80&w=1964&auto=format&fit=crop",
     "description": "In a future dominated by AI, a small group of rebels fights to reclaim human autonomy. Their leader, a gifted hacker, is the world's last hope.",
     "director": "Javier Rios",
     "featured": true
@@ -59,7 +59,7 @@
     "genre": ["Horror", "Thriller"],
     "rating": 7.5,
     "runtime": 98,
-    "poster": "https://picsum.photos/seed/beneath-the-surface/500/750",
+    "poster": "https://images.unsplash.com/photo-1563815332018-b80983f6637b?q=80&w=1974&auto=format&fit=crop",
     "description": "A deep-sea exploration mission goes horribly wrong when the crew awakens a dormant creature from the abyss. Trapped miles below the ocean, they must fight for survival.",
     "director": "Alan Smithee",
     "featured": false
@@ -72,7 +72,7 @@
     "genre": ["Drama", "Mystery"],
     "rating": 8.4,
     "runtime": 133,
-    "poster": "https://picsum.photos/seed/the-gilded-cage/500/750",
+    "poster": "https://images.unsplash.com/photo-1582234026217-2f3b81cca41a?q=80&w=1964&auto=format&fit=crop",
     "description": "The mysterious death of a wealthy patriarch throws a dysfunctional family into chaos, revealing a web of secrets, lies, and deceit.",
     "director": "Isabelle Dubois",
     "featured": false
@@ -85,7 +85,7 @@
     "genre": ["Fantasy", "Adventure"],
     "rating": 8.8,
     "runtime": 160,
-    "poster": "https://picsum.photos/seed/symphony-of-stars/500/750",
+    "poster": "https://images.unsplash.com/photo-1506477335327-4a47f1f7dc7a?q=80&w=1974&auto=format&fit=crop",
     "description": "In a world where music is magic, a young prodigy must compose a legendary symphony to save her kingdom from an encroaching silence that consumes all.",
     "director": "Liam O'Connell",
     "featured": true
@@ -98,7 +98,7 @@
     "genre": ["Comedy", "Action"],
     "rating": 7.5,
     "runtime": 126,
-    "poster": "https://picsum.photos/seed/midnight-run/500/750",
+    "poster": "https://images.unsplash.com/photo-1542159829-52822003756c?q=80&w=1935&auto=format&fit=crop",
     "description": "A bounty hunter is tasked with bringing a sensitive accountant to L.A., but the FBI, the mob, and a rival bounty hunter have other plans.",
     "director": "Martin Brest",
     "featured": false
@@ -111,7 +111,7 @@
     "genre": ["Sci-Fi", "Thriller"],
     "rating": 8.9,
     "runtime": 138,
-    "poster": "https://picsum.photos/seed/zero-gravity/500/750",
+    "poster": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?q=80&w=2080&auto=format&fit=crop",
     "description": "An explosion leaves two astronauts stranded in deep space, tethered to nothing but each other and spiraling out into the darkness.",
     "director": "Ava Cruz",
     "featured": false
@@ -124,7 +124,7 @@
     "genre": ["Comedy", "Drama"],
     "rating": 7.8,
     "runtime": 110,
-    "poster": "https://picsum.photos/seed/the-laughing-man/500/750",
+    "poster": "https://images.unsplash.com/photo-1582298539293-2705139c8949?q=80&w=2070&auto=format&fit=crop",
     "description": "A struggling stand-up comedian finds unexpected fame but loses himself in the process. A poignant look at the price of success.",
     "director": "Benny Jacobson",
     "featured": false
@@ -137,7 +137,7 @@
     "genre": ["Fantasy", "Horror"],
     "rating": 7.2,
     "runtime": 105,
-    "poster": "https://picsum.photos/seed/realm-of-shadows/500/750",
+    "poster": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=2070&auto=format&fit=crop",
     "description": "A cursed knight must venture into a land of perpetual darkness to lift a plague that has befallen his people, confronting twisted creatures and his own inner demons.",
     "director": "Gareth Evans",
     "featured": false
@@ -150,7 +150,7 @@
     "genre": ["Romance", "Comedy"],
     "rating": 7.1,
     "runtime": 95,
-    "poster": "https://picsum.photos/seed/summer-in-rome/500/750",
+    "poster": "https://images.unsplash.com/photo-1529178972594-555a151b3e83?q=80&w=2015&auto=format&fit=crop",
     "description": "An American tourist finds unexpected love with a charming local artist during a whirlwind summer in the Eternal City.",
     "director": "Giulia Rossi",
     "featured": false
@@ -163,7 +163,7 @@
     "genre": ["Thriller", "Mystery"],
     "rating": 8.3,
     "runtime": 122,
-    "poster": "https://picsum.photos/seed/the-conduit/500/750",
+    "poster": "https://images.unsplash.com/photo-1550757750-4ce187a65014?q=80&w=2070&auto=format&fit=crop",
     "description": "A journalist uncovers a vast government conspiracy after receiving a cryptic message from a whistleblower, putting her life in grave danger.",
     "director": "David Fincher",
     "featured": true
@@ -176,7 +176,7 @@
     "genre": ["Adventure", "Drama"],
     "rating": 8.5,
     "runtime": 108,
-    "poster": "https://picsum.photos/seed/nomads-land/500/750",
+    "poster": "https://images.unsplash.com/photo-1470123512342-5c93c1f01633?q=80&w=2070&auto=format&fit=crop",
     "description": "After losing everything in the Great Recession, a woman embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
     "director": "Chloé Zhao",
     "featured": false
@@ -189,7 +189,7 @@
     "genre": ["Action", "Sci-Fi"],
     "rating": 7.6,
     "runtime": 135,
-    "poster": "https://picsum.photos/seed/project-chimera/500/750",
+    "poster": "https://images.unsplash.com/photo-1518314916381-9d93c16a692d?q=80&w=2070&auto=format&fit=crop",
     "description": "A soldier enhanced with illegal cybernetics goes rogue to expose the corrupt corporation that created him.",
     "director": "Michael Bay",
     "featured": false
@@ -202,7 +202,7 @@
     "genre": ["Horror", "Fantasy"],
     "rating": 7.9,
     "runtime": 112,
-    "poster": "https://picsum.photos/seed/the-witching-hour/500/750",
+    "poster": "https://images.unsplash.com/photo-1505623778393-9a38a0c1031c?q=80&w=1964&auto=format&fit=crop",
     "description": "A coven of witches in modern-day Salem must protect their secrets and their lives from a new wave of witch hunters.",
     "director": "Anya Sharma",
     "featured": false
@@ -215,7 +215,7 @@
     "genre": ["Drama", "Comedy", "Romance"],
     "rating": 7.7,
     "runtime": 102,
-    "poster": "https://picsum.photos/seed/lost-in-translation/500/750",
+    "poster": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?q=80&w=2070&auto=format&fit=crop",
     "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
     "director": "Sofia Coppola",
     "featured": false
@@ -228,7 +228,7 @@
     "genre": ["Mystery", "Thriller"],
     "rating": 9.2,
     "runtime": 140,
-    "poster": "https://picsum.photos/seed/the-silent-patient/500/750",
+    "poster": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?q=80&w=1974&auto=format&fit=crop",
     "description": "A psychotherapist becomes obsessed with unraveling the mystery of his famous patient who has gone silent after murdering her husband.",
     "director": "Denis Villeneuve",
     "featured": true
@@ -241,7 +241,7 @@
     "genre": ["Action", "Fantasy"],
     "rating": 8.0,
     "runtime": 148,
-    "poster": "https://picsum.photos/seed/forged-in-fire/500/750",
+    "poster": "https://images.unsplash.com/photo-1544027993-37db7734133d?q=80&w=1974&auto=format&fit=crop",
     "description": "A disgraced blacksmith discovers he is the last in a line of dragon-slayers and must forge a legendary weapon to stop an ancient evil.",
     "director": "Chad Stahelski",
     "featured": false
@@ -254,7 +254,7 @@
     "genre": ["Drama", "Thriller"],
     "rating": 7.4,
     "runtime": 118,
-    "poster": "https://picsum.photos/seed/ocean-of-lies/500/750",
+    "poster": "https://images.unsplash.com/photo-1439405326854-014607f694d7?q=80&w=2070&auto=format&fit=crop",
     "description": "A woman's perfect life unravels after she discovers her husband's devastating secret while on a luxury cruise.",
     "director": "Olivia Wilde",
     "featured": false
@@ -267,7 +267,7 @@
     "genre": ["Sci-Fi", "Adventure", "Drama"],
     "rating": 8.6,
     "runtime": 130,
-    "poster": "https://picsum.photos/seed/quantum-leap/500/750",
+    "poster": "https://images.unsplash.com/photo-1517976487-15122781355b?q=80&w=2070&auto=format&fit=crop",
     "description": "A physicist tests his time-travel machine and leaps into the past, finding himself in different people's lives and altering history for the better.",
     "director": "Alex Garland",
     "featured": false
@@ -280,7 +280,7 @@
     "genre": ["Horror", "Mystery"],
     "rating": 7.8,
     "runtime": 105,
-    "poster": "https://picsum.photos/seed/city-of-ghosts/500/750",
+    "poster": "https://images.unsplash.com/photo-1549887534-1541e9326642?q=80&w=2070&auto=format&fit=crop",
     "description": "A paranormal investigator moves into a haunted apartment building in New Orleans to uncover the truth behind a century-old curse.",
     "director": "Jordan Peele",
     "featured": false
@@ -293,7 +293,7 @@
     "genre": ["Drama", "History"],
     "rating": 8.9,
     "runtime": 155,
-    "poster": "https://picsum.photos/seed/the-kings-gambit/500/750",
+    "poster": "https://images.unsplash.com/photo-1585504257754-dba33b378a9c?q=80&w=1974&auto=format&fit=crop",
     "description": "The story of a brilliant but troubled chess prodigy who rises to the top of the world of competitive chess during the Cold War.",
     "director": "Scott Frank",
     "featured": false
@@ -306,7 +306,7 @@
     "genre": ["Action", "Thriller"],
     "rating": 8.2,
     "runtime": 125,
-    "poster": "https://picsum.photos/seed/velvet-blades/500/750",
+    "poster": "https://images.unsplash.com/photo-1578496479532-358b95c37852?q=80&w=2070&auto=format&fit=crop",
     "description": "An elite all-female spy syndicate takes on a shadowy organization threatening to destabilize global politics.",
     "director": "Patty Jenkins",
     "featured": false
@@ -319,7 +319,7 @@
     "genre": ["Fantasy", "Romance"],
     "rating": 8.3,
     "runtime": 120,
-    "poster": "https://picsum.photos/seed/auroras-song/500/750",
+    "poster": "https://images.unsplash.com/photo-1536746803153-93991733b499?q=80&w=1964&auto=format&fit=crop",
     "description": "A mortal man falls in love with a celestial being who visits his village, but their love is forbidden by the ancient laws of the cosmos.",
     "director": "Guillermo del Toro",
     "featured": false
@@ -332,7 +332,7 @@
     "genre": ["War", "Drama", "Action"],
     "rating": 8.5,
     "runtime": 141,
-    "poster": "https://picsum.photos/seed/no-mans-land/500/750",
+    "poster": "https://images.unsplash.com/photo-1542158048-8a8b13945903?q=80&w=2070&auto=format&fit=crop",
     "description": "During World War I, two young British soldiers are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men, and one of the soldier's brothers, from walking straight into a deadly trap.",
     "director": "Sam Mendes",
     "featured": false
@@ -345,7 +345,7 @@
     "genre": ["Comedy", "Drama"],
     "rating": 6.1,
     "runtime": 120,
-    "poster": "https://picsum.photos/seed/the-comedian/500/750",
+    "poster": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=2070&auto=format&fit=crop",
     "description": "An aging comic icon, tries to reinvent himself - and his comic genius - in a world that has passed him by.",
     "director": "Taylor Hackford",
     "featured": false
@@ -358,7 +358,7 @@
     "genre": ["Sci-Fi", "Drama"],
     "rating": 9.0,
     "runtime": 148,
-    "poster": "https://picsum.photos/seed/synthetic-dreams/500/750",
+    "poster": "https://images.unsplash.com/photo-1534125642435-834921f44c68?q=80&w=1964&auto=format&fit=crop",
     "description": "In a near-future where androids are indistinguishable from humans, a detective falls in love with a synthetic being he knows is designed to deceive him.",
     "director": "Spike Jonze",
     "featured": false
@@ -371,7 +371,7 @@
     "genre": ["Horror", "Thriller"],
     "rating": 7.6,
     "runtime": 92,
-    "poster": "https://picsum.photos/seed/whispers-in-the-dark/500/750",
+    "poster": "https://images.unsplash.com/photo-1560790671-b765b894982c?q=80&w=2070&auto=format&fit=crop",
     "description": "A family moves into a new home, only to be tormented by a malevolent spirit that communicates through whispers.",
     "director": "Mike Flanagan",
     "featured": false
@@ -384,7 +384,7 @@
     "genre": ["Adventure", "Fantasy"],
     "rating": 8.1,
     "runtime": 134,
-    "poster": "https://picsum.photos/seed/the-cartographer/500/750",
+    "poster": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop",
     "description": "A young apprentice discovers a magical map that reveals uncharted lands, embarking on an adventure to chart them and uncover their secrets.",
     "director": "Peter Jackson",
     "featured": false
@@ -397,7 +397,7 @@
     "genre": ["Drama", "Noir"],
     "rating": 8.4,
     "runtime": 110,
-    "poster": "https://picsum.photos/seed/sunset-boulevard/500/750",
+    "poster": "https://images.unsplash.com/photo-1524678713426-11c038891efc?q=80&w=1964&auto=format&fit=crop",
     "description": "A screenwriter is hired to rework a faded silent film star's script, only to find himself trapped in her fantasy world.",
     "director": "Billy Wilder",
     "featured": false
@@ -410,7 +410,7 @@
     "genre": ["Horror", "Thriller"],
     "rating": 6.2,
     "runtime": 92,
-    "poster": "https://picsum.photos/seed/the-prodigy/500/750",
+    "poster": "https://images.unsplash.com/photo-1547906411-533169357403?q=80&w=1974&auto=format&fit=crop",
     "description": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
     "director": "Nicholas McCarthy",
     "featured": false
@@ -423,7 +423,7 @@
     "genre": ["Horror", "Fantasy", "Romance"],
     "rating": 6.5,
     "runtime": 119,
-    "poster": "https://picsum.photos/seed/crimson-peak/500/750",
+    "poster": "https://images.unsplash.com/photo-1579963240212-a72179831d1d?q=80&w=1974&auto=format&fit=crop",
     "description": "In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider.",
     "director": "Guillermo del Toro",
     "featured": false
@@ -436,7 +436,7 @@
     "genre": ["Action", "Adventure"],
     "rating": 7.9,
     "runtime": 131,
-    "poster": "https://picsum.photos/seed/apex-predator/500/750",
+    "poster": "https://images.unsplash.com/photo-1560813598-13a22b2c4538?q=80&w=1974&auto=format&fit=crop",
     "description": "A group of elite soldiers on a rescue mission find themselves hunted by a genetically engineered creature on a remote island.",
     "director": "John McTiernan",
     "featured": false
@@ -449,7 +449,7 @@
     "genre": ["Thriller", "Crime"],
     "rating": 6.8,
     "runtime": 98,
-    "poster": "https://picsum.photos/seed/the-locksmith/500/750",
+    "poster": "https://images.unsplash.com/photo-1583795310243-7db35d341935?q=80&w=2070&auto=format&fit=crop",
     "description": "An expert locksmith, fresh out of prison, tries to work his way back into the life of his daughter and ex-fiancé, but is forced to use his skills for a final, dangerous job.",
     "director": "Nicolas Harvard",
     "featured": false
@@ -462,7 +462,7 @@
     "genre": ["Comedy", "Drama"],
     "rating": 7.6,
     "runtime": 161,
-    "poster": "https://picsum.photos/seed/once-upon-a-time-in-hollywood/500/750",
+    "poster": "https://images.unsplash.com/photo-1620313318260-2e4575f04a8b?q=80&w=1974&auto=format&fit=crop",
     "description": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
     "director": "Quentin Tarantino",
     "featured": false
@@ -475,7 +475,7 @@
     "genre": ["Fantasy", "Adventure"],
     "rating": 8.8,
     "runtime": 150,
-    "poster": "https://picsum.photos/seed/the-alchemist/500/750",
+    "poster": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1854&auto=format&fit=crop",
     "description": "An Andalusian shepherd boy named Santiago travels from his homeland in Spain to the Egyptian desert in search of a treasure buried near the Pyramids.",
     "director": "Alfonso Cuarón",
     "featured": false
@@ -488,7 +488,7 @@
     "genre": ["Comedy", "Drama", "Crime"],
     "rating": 8.1,
     "runtime": 102,
-    "poster": "https://picsum.photos/seed/paper-moon/500/750",
+    "poster": "https://images.unsplash.com/photo-1582994254564-7c6de5101188?q=80&w=1939&auto=format&fit=crop",
     "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
     "director": "Peter Bogdanovich",
     "featured": false
@@ -501,7 +501,7 @@
     "genre": ["Sci-Fi", "Drama", "Adventure"],
     "rating": 8.6,
     "runtime": 169,
-    "poster": "https://picsum.photos/seed/interstellar/500/750",
+    "poster": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2111&auto=format&fit=crop",
     "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
     "director": "Christopher Nolan",
     "featured": true
@@ -514,7 +514,7 @@
     "genre": ["Comedy", "Adventure", "Drama"],
     "rating": 8.1,
     "runtime": 99,
-    "poster": "https://picsum.photos/seed/the-grand-budapest-hotel/500/750",
+    "poster": "https://images.unsplash.com/photo-1590499113467-f38a8846d8e3?q=80&w=1969&auto=format&fit=crop",
     "description": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
     "director": "Wes Anderson",
     "featured": false
@@ -527,7 +527,7 @@
     "genre": ["Comedy", "Drama", "War"],
     "rating": 7.9,
     "runtime": 108,
-    "poster": "https://picsum.photos/seed/jojo-rabbit/500/750",
+    "poster": "https://images.unsplash.com/photo-1571011384884-a74872c91897?q=80&w=1964&auto=format&fit=crop",
     "description": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",
     "director": "Taika Waititi",
     "featured": false
@@ -540,7 +540,7 @@
     "genre": ["Thriller", "Drama", "Comedy"],
     "rating": 8.5,
     "runtime": 132,
-    "poster": "https://picsum.photos/seed/parasite/500/750",
+    "poster": "https://images.unsplash.com/photo-1560303384-53a59a7f3402?q=80&w=1964&auto=format&fit=crop",
     "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
     "director": "Bong Joon Ho",
     "featured": false
@@ -553,7 +553,7 @@
     "genre": ["Horror", "Drama", "Fantasy"],
     "rating": 7.4,
     "runtime": 109,
-    "poster": "https://picsum.photos/seed/the-lighthouse/500/750",
+    "poster": "https://images.unsplash.com/photo-1590500506828-693151a4a497?q=80&w=1973&auto=format&fit=crop",
     "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
     "director": "Robert Eggers",
     "featured": false
@@ -566,7 +566,7 @@
     "genre": ["Sci-Fi", "Action", "Mystery"],
     "rating": 8.0,
     "runtime": 164,
-    "poster": "https://picsum.photos/seed/blade-runner-2049/500/750",
+    "poster": "https://images.unsplash.com/photo-1542646733-2a3c74029b33?q=80&w=1974&auto=format&fit=crop",
     "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
     "director": "Denis Villeneuve",
     "featured": false
@@ -579,7 +579,7 @@
     "genre": ["Sci-Fi", "Drama", "Mystery"],
     "rating": 7.9,
     "runtime": 116,
-    "poster": "https://picsum.photos/seed/arrival/500/750",
+    "poster": "https://images.unsplash.com/photo-1528722828814-77b9b833b53b?q=80&w=2070&auto=format&fit=crop",
     "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
     "director": "Denis Villeneuve",
     "featured": false
@@ -592,7 +592,7 @@
     "genre": ["Action", "Adventure", "Sci-Fi"],
     "rating": 8.1,
     "runtime": 120,
-    "poster": "https://picsum.photos/seed/mad-max-fury-road/500/750",
+    "poster": "https://images.unsplash.com/photo-1561658422-48b2a19790c3?q=80&w=2070&auto=format&fit=crop",
     "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
     "director": "George Miller",
     "featured": false
@@ -605,7 +605,7 @@
     "genre": ["Romance", "Sci-Fi", "Drama"],
     "rating": 8.0,
     "runtime": 126,
-    "poster": "https://picsum.photos/seed/her/500/750",
+    "poster": "https://images.unsplash.com/photo-1580916428039-b5d1e0892c42?q=80&w=1964&auto=format&fit=crop",
     "description": "In a near future, a lonely writer develops an unlikely relationship with an advanced operating system designed to meet his every need.",
     "director": "Spike Jonze",
     "featured": false
@@ -618,7 +618,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 7.8,
     "runtime": 100,
-    "poster": "https://picsum.photos/seed/drive/500/750",
+    "poster": "https://images.unsplash.com/photo-1579656293466-d24ff96c73d9?q=80&w=2026&auto=format&fit=crop",
     "description": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.",
     "director": "Nicolas Winding Refn",
     "featured": false
@@ -631,7 +631,7 @@
     "genre": ["Drama", "History"],
     "rating": 7.7,
     "runtime": 120,
-    "poster": "https://picsum.photos/seed/the-social-network/500/750",
+    "poster": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1974&auto=format&fit=crop",
     "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
     "director": "David Fincher",
     "featured": false
@@ -644,7 +644,7 @@
     "genre": ["War", "Adventure", "Drama"],
     "rating": 8.3,
     "runtime": 153,
-    "poster": "https://picsum.photos/seed/inglourious-basterds/500/750",
+    "poster": "https://images.unsplash.com/photo-1569048452935-266b17a69a4d?q=80&w=1974&auto=format&fit=crop",
     "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
     "director": "Quentin Tarantino",
     "featured": false
@@ -657,7 +657,7 @@
     "genre": ["Crime", "Thriller", "Drama"],
     "rating": 8.1,
     "runtime": 122,
-    "poster": "https://picsum.photos/seed/no-country-for-old-men/500/750",
+    "poster": "https://images.unsplash.com/photo-1595343474530-5878d3869960?q=80&w=1974&auto=format&fit=crop",
     "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
     "director": "Joel Coen, Ethan Coen",
     "featured": false
@@ -670,20 +670,20 @@
     "genre": ["Sci-Fi", "Thriller", "Drama"],
     "rating": 7.9,
     "runtime": 109,
-    "poster": "https://picsum.photos/seed/children-of-men/500/750",
+    "poster": "https://images.unsplash.com/photo-1543886134-28a1c6f37643?q=80&w=2070&auto=format&fit=crop",
     "description": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
     "director": "Alfonso Cuarón",
     "featured": false
   },
   {
-    "id": "e8f9a0b1-c2d3-e4f5-a6b7-c8d9e0f1a2b4",
+    "id": "bcf5b3d9-95e3-40e2-9e2c-39145695029c",
     "slug": "eternal-sunshine-of-the-spotless-mind",
     "title": "Eternal Sunshine of the Spotless Mind",
     "year": 2004,
     "genre": ["Romance", "Sci-Fi", "Drama"],
     "rating": 8.3,
     "runtime": 108,
-    "poster": "https://picsum.photos/seed/eternal-sunshine-of-the-spotless-mind/500/750",
+    "poster": "https://images.unsplash.com/photo-1549820185-f5592a83e029?q=80&w=1968&auto=format&fit=crop",
     "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
     "director": "Michel Gondry",
     "featured": false
@@ -696,7 +696,7 @@
     "genre": ["Mystery", "Thriller"],
     "rating": 8.4,
     "runtime": 113,
-    "poster": "https://picsum.photos/seed/memento/500/750",
+    "poster": "https://images.unsplash.com/photo-1604200232904-2d7b258d437d?q=80&w=2070&auto=format&fit=crop",
     "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
     "director": "Christopher Nolan",
     "featured": false
@@ -709,7 +709,7 @@
     "genre": ["Drama"],
     "rating": 8.8,
     "runtime": 139,
-    "poster": "https://picsum.photos/seed/fight-club/500/750",
+    "poster": "https://images.unsplash.com/photo-1569421639898-400c283995f5?q=80&w=1964&auto=format&fit=crop",
     "description": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more.",
     "director": "David Fincher",
     "featured": false
@@ -722,7 +722,7 @@
     "genre": ["Action", "Sci-Fi"],
     "rating": 8.7,
     "runtime": 136,
-    "poster": "https://picsum.photos/seed/the-matrix/500/750",
+    "poster": "https://images.unsplash.com/photo-1593432198363-f2038711e72f?q=80&w=1964&auto=format&fit=crop",
     "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
     "director": "Lana Wachowski, Lilly Wachowski",
     "featured": false
@@ -735,7 +735,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 8.9,
     "runtime": 154,
-    "poster": "https://picsum.photos/seed/pulp-fiction/500/750",
+    "poster": "https://images.unsplash.com/photo-1617140237934-08a416a12c8a?q=80&w=1964&auto=format&fit=crop",
     "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "director": "Quentin Tarantino",
     "featured": false
@@ -748,7 +748,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 8.7,
     "runtime": 146,
-    "poster": "https://picsum.photos/seed/goodfellas/500/750",
+    "poster": "https://images.unsplash.com/photo-1628353655364-a6a720163359?q=80&w=2060&auto=format&fit=crop",
     "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
     "director": "Martin Scorsese",
     "featured": false
@@ -761,7 +761,7 @@
     "genre": ["Sci-Fi", "Action", "Thriller"],
     "rating": 8.1,
     "runtime": 117,
-    "poster": "https://picsum.photos/seed/blade-runner/500/750",
+    "poster": "https://images.unsplash.com/photo-1582266255765-fa5cf1a1d501?q=80&w=2128&auto=format&fit=crop",
     "description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
     "director": "Ridley Scott",
     "featured": false
@@ -774,7 +774,7 @@
     "genre": ["Horror", "Sci-Fi"],
     "rating": 8.4,
     "runtime": 117,
-    "poster": "https://picsum.photos/seed/alien/500/750",
+    "poster": "https://images.unsplash.com/photo-1598387993441-a364f5592a83?q=80&w=1976&auto=format&fit=crop",
     "description": "After a space merchant vessel perceives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
     "director": "Ridley Scott",
     "featured": false
@@ -787,7 +787,7 @@
     "genre": ["Crime", "Drama"],
     "rating": 8.2,
     "runtime": 114,
-    "poster": "https://picsum.photos/seed/taxi-driver/500/750",
+    "poster": "https://images.unsplash.com/photo-1566914595202-0e2249c5d947?q=80&w=1974&auto=format&fit=crop",
     "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
     "director": "Martin Scorsese",
     "featured": false
@@ -800,7 +800,7 @@
     "genre": ["Crime", "Sci-Fi", "Drama"],
     "rating": 8.3,
     "runtime": 136,
-    "poster": "https://picsum.photos/seed/a-clockwork-orange/500/750",
+    "poster": "https://images.unsplash.com/photo-1563820603-5162cf551821?q=80&w=2070&auto=format&fit=crop",
     "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
     "director": "Stanley Kubrick",
     "featured": false
@@ -813,7 +813,7 @@
     "genre": ["Sci-Fi", "Adventure"],
     "rating": 8.3,
     "runtime": 149,
-    "poster": "https://picsum.photos/seed/2001-a-space-odyssey/500/750",
+    "poster": "https://images.unsplash.com/photo-1549499232-b700a40dda2a?q=80&w=2070&auto=format&fit=crop",
     "description": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
     "director": "Stanley Kubrick",
     "featured": false
@@ -826,7 +826,7 @@
     "genre": ["Western"],
     "rating": 8.8,
     "runtime": 178,
-    "poster": "https://picsum.photos/seed/the-good-the-bad-and-the-ugly/500/750",
+    "poster": "https://images.unsplash.com/photo-1543893325-4813294025a1?q=80&w=2083&auto=format&fit=crop",
     "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
     "director": "Sergio Leone",
     "featured": false
@@ -839,9 +839,11 @@
     "genre": ["Sci-Fi", "Mystery"],
     "rating": 9.3,
     "runtime": 165,
-    "poster": "https://picsum.photos/seed/chronos-archive/500/750",
+    "poster": "https://images.unsplash.com/photo-1447023243360-60f35496a32d?q=80&w=2070&auto=format&fit=crop",
     "description": "A historian discovers a hidden archive of temporal anomalies, forcing her to piece together a fragmented history to prevent a catastrophic future.",
     "director": "Lila Singh",
     "featured": true
   }
 ]
+
+    

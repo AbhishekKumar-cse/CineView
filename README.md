@@ -52,32 +52,3 @@ The movie dataset is a static JSON file located at `/data/movies.json`. It was p
     ```
     This command will statically generate all pages and report any potential errors.
 
-## Deployment to Vercel
-
-Deploying CineView to Vercel is seamless:
-
-1.  Push your code to a Git repository (e.g., GitHub, GitLab).
-2.  Import the repository into your Vercel account.
-3.  Vercel will automatically detect the Next.js project and configure the build settings.
-4.  Click "Deploy". The project is architected to build without any configuration changes.
-
-## AI Prompts Used
-
-This project's architecture was guided by a master prompt designed to prevent common Vercel build errors. Here are a few key instructions from that prompt:
-
-1.  **Vercel-Safe Search Params:**
-    > For filtering and sorting, use the App Router page signature: `export default function Page({ searchParams }: { searchParams: { genre?: string; sort?: string; search?: string } })`. This keeps the page fully static and Vercel-safe. DO NOT USE `useSearchParams()` in pages.
-
-2.  **Static Generation for Dynamic Routes:**
-    > For detail pages (`/movies/[slug]`) and genre pages (`/genre/[genre]`), you must use `generateStaticParams` to pre-generate all pages from the dataset. Also include `export const revalidate = 3600` for ISR and `export const dynamicParams = false`.
-
-3.  **AI for Related Content:**
-    > On the movie detail page, include a "Related Movies" section. Use a GenAI flow that takes the current movie's genres as input and recommends other movies from the static dataset that share those genres.
-
-## Potential Improvements (with 2 more days)
-
-- **Pagination**: Implement pagination on the `/movies` listing page to handle larger datasets gracefully.
-- **Advanced Filtering**: Add more filter options, such as filtering by year range or director.
-- **User Authentication**: Introduce user accounts to allow features like watchlists, ratings, and reviews.
-- **Animations & Transitions**: Enhance the UI with more sophisticated page transitions and micro-interactions using a library like Framer Motion.
-- **Testing**: Add unit and integration tests with Jest and React Testing Library to ensure code quality and prevent regressions.

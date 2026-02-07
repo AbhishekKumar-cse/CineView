@@ -1,11 +1,11 @@
 'use server';
 
 /**
- * @fileOverview Provides functionality to recommend related movies based on shared genres.
+ * @fileOverview Provides functionality to recommend related movies based on shared genres and ratings.
  *
- * - `getRelatedMovies`: Asynchronous function to fetch related movies based on input movie genres.
- * - `RelatedMoviesInput`: Interface defining the input schema for the related movies flow, expecting an array of genres.
- * - `RelatedMoviesOutput`: Interface defining the output schema for the related movies flow, which is an array of movie objects.
+ * - `getRelatedMovies`: Asynchronous function to fetch related movies.
+ * - `RelatedMoviesInput`: Interface defining the input schema for the related movies flow.
+ * - `RelatedMoviesOutput`: Interface defining the output schema for the related movies flow.
  */
 
 import {ai} from '@/ai/genkit';
@@ -30,7 +30,7 @@ const relatedMoviesPrompt = ai.definePrompt({
   name: 'relatedMoviesPrompt',
   input: {schema: RelatedMoviesInputSchema},
   output: {schema: RelatedMoviesOutputSchema},
-  prompt: `You are a movie expert. Given a list of genres, you will find other movies that share those genres. Only return the movie objects. Do not return any other text.
+  prompt: `You are a movie expert. Given a list of genres, you will find other movies that share those genres, prioritizing those with more shared genres and higher ratings. Only return the movie objects. Do not return any other text.
 
 Genres: {{genres}}`,
 });
@@ -42,16 +42,29 @@ const relatedMoviesFlow = ai.defineFlow(
     outputSchema: RelatedMoviesOutputSchema,
   },
   async input => {
-    // Assuming moviesData is available here or can be imported
     const {getAllMovies} = await import('@/lib/movies');
     const allMovies = getAllMovies();
 
-    // Filter movies based on the provided genres
-    const relatedMovies = allMovies.filter(movie => {
-      // Ensure the movie is not the current movie and has at least one genre in common
-      return movie.id !== input.currentMovieId && input.genres.some(genre => movie.genre.includes(genre));
-    });
+    // Calculate a "relatedness" score for each movie.
+    const scoredMovies = allMovies
+      .filter(movie => movie.id !== input.currentMovieId)
+      .map(movie => {
+        const sharedGenres = movie.genre.filter(g => input.genres.includes(g));
+        
+        if (sharedGenres.length === 0) {
+          return null; // Exclude movies with no shared genres.
+        }
 
-    return relatedMovies as any; // Cast to 'any' to satisfy Genkit's type system, refine if needed
+        // Score: higher for more shared genres, with rating as a tie-breaker.
+        const score = (sharedGenres.length * 10) + movie.rating;
+
+        return { ...movie, score };
+      })
+      .filter(Boolean) as (Movie & { score: number })[]; // Filter out nulls and assert type
+
+    // Sort by score in descending order
+    scoredMovies.sort((a, b) => b.score - a.score);
+
+    return scoredMovies as any;
   }
 );

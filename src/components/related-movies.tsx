@@ -13,8 +13,8 @@ export async function RelatedMovies({ genres, currentMovieId }: RelatedMoviesPro
     return null;
   }
   
-  // Get top 5 related movies
-  const topRelated = relatedMovies.sort((a, b) => b.rating - a.rating).slice(0, 5);
+// Get top 5 related movies, already sorted by the flow's relevance score.
+  const topRelated = relatedMovies.slice(0, 5);
 
   return (
     <section className="mt-12">
